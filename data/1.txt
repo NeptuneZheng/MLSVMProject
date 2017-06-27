@@ -1,0 +1,13 @@
+19*1*false
+19*2*true
+19*3*true
+19*4*true
+19*5*true
+16*6*true
+16*3*true
+16*7*true
+16*3*true
+16*8*true
+16*9*true
+16*10*false
+16*3*true
