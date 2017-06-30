@@ -11,7 +11,7 @@ ymajorLocator = MultipleLocator(10)
 yminorLocator = MultipleLocator(1)
 
 
-with open("data/ml.txt") as ifile:
+with open("../data/ml.txt") as ifile:
     xt=[]
     yt=[]
 

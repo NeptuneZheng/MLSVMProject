@@ -1,6 +1,6 @@
 import time
 
-from code import IPDictionary
+import IPDictionary
 
 
 def testFileWriter(filePath,override):
